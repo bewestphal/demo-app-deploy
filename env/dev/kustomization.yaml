@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/bewestphal/demo-app
-  newTag: e9aa3fc260ade7bcac537a4e61bed703862e0500
+  newTag: 5a2d64fe4a09f7df26d34d8f89587bc9258c6493
