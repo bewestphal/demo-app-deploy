@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/bewestphal/demo-app:fe88776d64b09722244cdfb59e97e2042bfe5f7f
+      - image: ghcr.io/bewestphal/demo-app:5a2d64fe4a09f7df26d34d8f89587bc9258c6493
         name: demo-app
         ports:
         - containerPort: 8080
